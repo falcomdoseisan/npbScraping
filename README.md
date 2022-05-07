@@ -1,1 +1,2 @@
 # npbScraping
+npbデータをスクレイピングする。
